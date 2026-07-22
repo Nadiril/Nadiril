@@ -8,11 +8,15 @@
 
 <h2 data-importer="text" align="left">About me</h2>
 
-###
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-###
+<p data-importer="text" align="left">
+
+✨ Passionate Fullstack Web Developer from Indonesia.<br>
+💻 Building modern web applications with Next.js, React, Tailwind CSS, and Supabase.<br>
+📱 Currently learning React Native (Expo), backend architecture, and scalable application development.<br>
+🚀 I enjoy solving real-world problems by creating clean, responsive, and user-friendly applications.<br>
+🎯 My goal is to become a professional software engineer and contribute to impactful digital products.</p>
 
 <h2 data-importer="text" align="left">I code with</h2>
 
