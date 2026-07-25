@@ -1,8 +1,8 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<h1 data-importer="text" align="center">M. NADIRIL KHOIR</h1>
 
 ###
 
-<p data-importer="text" align="left">My name is Nadirl and I'm a Fullstack Web Developer, </p>
+<p data-importer="text" align="center">Fullstack Web Developer</p>
 
 ###
 
