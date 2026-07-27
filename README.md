@@ -1,14 +1,8 @@
 <h1 data-importer="text" align="center">M. NADIRIL KHOIR</h1>
 
-###
-
-<p data-importer="text" align="center">Fullstack Web Developer</p>
-
-###
+<h2 data-importer="text" align="center">Fullstack Web Developer</h2>
 
 <h2 data-importer="text" align="left">About me</h2>
-
-
 
 <p data-importer="text" align="left">
 
